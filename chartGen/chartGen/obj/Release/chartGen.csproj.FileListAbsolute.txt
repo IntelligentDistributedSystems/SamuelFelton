@@ -1,0 +1,7 @@
+E:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\bin\Release\chartGen.exe.config
+E:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\bin\Release\chartGen.exe
+E:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\bin\Release\chartGen.pdb
+E:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\bin\Release\EPPlus.dll
+E:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\bin\Release\EPPlus.xml
+E:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\obj\Release\chartGen.exe
+E:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\obj\Release\chartGen.pdb

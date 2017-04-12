@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:chartSpace xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+  <c:chart>
+    <c:title>
+      <c:tx>
+        <c:rich>
+          <a:bodyPr />
+          <a:lstStyle />
+          <a:p>
+            <a:pPr>
+              <a:defRPr sz="1800" b="0" />
+            </a:pPr>
+            <a:r>
+              <a:rPr />
+              <a:t>Trial comparisons</a:t>
+            </a:r>
+          </a:p>
+        </c:rich>
+      </c:tx>
+      <c:layout />
+      <c:overlay val="0" />
+    </c:title>
+    <c:plotArea>
+      <c:layout />
+      <c:pieChart>
+        <c:varyColors val="1" />
+        <ser xmlns="http://schemas.openxmlformats.org/drawingml/2006/chart">
+          <c:idx val="0" />
+          <c:order val="0" />
+          <c:tx>
+            <c:strRef>
+              <c:f>
+              </c:f>
+              <c:strCache>
+                <c:ptCount val="1" />
+              </c:strCache>
+            </c:strRef>
+          </c:tx>
+          <c:cat>
+            <c:numRef>
+              <c:f>'s(1, 1)'!$BA$1:$BD$1</c:f>
+            </c:numRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>'s(1, 1)'!$BA$22:$BD$22</c:f>
+            </c:numRef>
+          </c:val>
+        </ser>
+      </c:pieChart>
+    </c:plotArea>
+    <c:legend>
+      <c:legendPos val="r" />
+      <c:layout />
+      <c:overlay val="0" />
+    </c:legend>
+    <c:plotVisOnly val="1" />
+  </c:chart>
+  <c:printSettings>
+    <c:headerFooter />
+    <c:pageMargins b="0.75" l="0.7" r="0.7" t="0.75" header="0.3" footer="0.3" />
+    <c:pageSetup />
+  </c:printSettings>
+</c:chartSpace>

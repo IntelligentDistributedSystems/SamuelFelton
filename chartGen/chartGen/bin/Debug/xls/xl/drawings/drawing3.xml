@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xdr:wsDr xmlns:xdr="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+  <xdr:twoCellAnchor>
+    <xdr:from>
+      <xdr:col>0</xdr:col>
+      <xdr:colOff>9525000</xdr:colOff>
+      <xdr:row>0</xdr:row>
+      <xdr:rowOff>952500</xdr:rowOff>
+    </xdr:from>
+    <xdr:to>
+      <xdr:col>25</xdr:col>
+      <xdr:colOff>381000</xdr:colOff>
+      <xdr:row>15</xdr:row>
+      <xdr:rowOff>0</xdr:rowOff>
+    </xdr:to>
+    <graphicFrame macro="" xmlns="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing">
+      <xdr:nvGraphicFramePr>
+        <xdr:cNvPr id="18" name="up" />
+        <xdr:cNvGraphicFramePr />
+      </xdr:nvGraphicFramePr>
+      <xdr:xfrm>
+        <a:off x="0" y="0" /> <a:ext cx="0" cy="0" /></xdr:xfrm>
+      <a:graphic>
+        <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/chart">
+          <c:chart xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" r:id="rId1" />   </a:graphicData>  </a:graphic>
+    </graphicFrame>
+    <clientData xmlns="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" />
+  </xdr:twoCellAnchor>
+  <xdr:twoCellAnchor>
+    <xdr:from>
+      <xdr:col>0</xdr:col>
+      <xdr:colOff>9525000</xdr:colOff>
+      <xdr:row>0</xdr:row>
+      <xdr:rowOff>952500</xdr:rowOff>
+    </xdr:from>
+    <xdr:to>
+      <xdr:col>25</xdr:col>
+      <xdr:colOff>381000</xdr:colOff>
+      <xdr:row>15</xdr:row>
+      <xdr:rowOff>0</xdr:rowOff>
+    </xdr:to>
+    <graphicFrame macro="" xmlns="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing">
+      <xdr:nvGraphicFramePr>
+        <xdr:cNvPr id="20" name="right" />
+        <xdr:cNvGraphicFramePr />
+      </xdr:nvGraphicFramePr>
+      <xdr:xfrm>
+        <a:off x="0" y="0" /> <a:ext cx="0" cy="0" /></xdr:xfrm>
+      <a:graphic>
+        <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/chart">
+          <c:chart xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" r:id="rId2" />   </a:graphicData>  </a:graphic>
+    </graphicFrame>
+    <clientData xmlns="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" />
+  </xdr:twoCellAnchor>
+  <xdr:twoCellAnchor>
+    <xdr:from>
+      <xdr:col>0</xdr:col>
+      <xdr:colOff>9525000</xdr:colOff>
+      <xdr:row>0</xdr:row>
+      <xdr:rowOff>952500</xdr:rowOff>
+    </xdr:from>
+    <xdr:to>
+      <xdr:col>25</xdr:col>
+      <xdr:colOff>381000</xdr:colOff>
+      <xdr:row>15</xdr:row>
+      <xdr:rowOff>0</xdr:rowOff>
+    </xdr:to>
+    <graphicFrame macro="" xmlns="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing">
+      <xdr:nvGraphicFramePr>
+        <xdr:cNvPr id="22" name="left" />
+        <xdr:cNvGraphicFramePr />
+      </xdr:nvGraphicFramePr>
+      <xdr:xfrm>
+        <a:off x="0" y="0" /> <a:ext cx="0" cy="0" /></xdr:xfrm>
+      <a:graphic>
+        <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/chart">
+          <c:chart xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" r:id="rId3" />   </a:graphicData>  </a:graphic>
+    </graphicFrame>
+    <clientData xmlns="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" />
+  </xdr:twoCellAnchor>
+  <xdr:twoCellAnchor>
+    <xdr:from>
+      <xdr:col>0</xdr:col>
+      <xdr:colOff>9525000</xdr:colOff>
+      <xdr:row>0</xdr:row>
+      <xdr:rowOff>952500</xdr:rowOff>
+    </xdr:from>
+    <xdr:to>
+      <xdr:col>25</xdr:col>
+      <xdr:colOff>381000</xdr:colOff>
+      <xdr:row>15</xdr:row>
+      <xdr:rowOff>0</xdr:rowOff>
+    </xdr:to>
+    <graphicFrame macro="" xmlns="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing">
+      <xdr:nvGraphicFramePr>
+        <xdr:cNvPr id="24" name="down" />
+        <xdr:cNvGraphicFramePr />
+      </xdr:nvGraphicFramePr>
+      <xdr:xfrm>
+        <a:off x="0" y="0" /> <a:ext cx="0" cy="0" /></xdr:xfrm>
+      <a:graphic>
+        <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/chart">
+          <c:chart xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" r:id="rId4" />   </a:graphicData>  </a:graphic>
+    </graphicFrame>
+    <clientData xmlns="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" />
+  </xdr:twoCellAnchor>
+  <xdr:twoCellAnchor>
+    <xdr:from>
+      <xdr:col>0</xdr:col>
+      <xdr:colOff>0</xdr:colOff>
+      <xdr:row>0</xdr:row>
+      <xdr:rowOff>0</xdr:rowOff>
+    </xdr:from>
+    <xdr:to>
+      <xdr:col>10</xdr:col>
+      <xdr:colOff>0</xdr:colOff>
+      <xdr:row>10</xdr:row>
+      <xdr:rowOff>0</xdr:rowOff>
+    </xdr:to>
+    <graphicFrame macro="" xmlns="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing">
+      <xdr:nvGraphicFramePr>
+        <xdr:cNvPr id="26" name="Trial comparisons" />
+        <xdr:cNvGraphicFramePr />
+      </xdr:nvGraphicFramePr>
+      <xdr:xfrm>
+        <a:off x="0" y="0" /> <a:ext cx="0" cy="0" /></xdr:xfrm>
+      <a:graphic>
+        <a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/chart">
+          <c:chart xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" r:id="rId5" />   </a:graphicData>  </a:graphic>
+    </graphicFrame>
+    <clientData xmlns="http://schemas.openxmlformats.org/drawingml/2006/spreadsheetDrawing" />
+  </xdr:twoCellAnchor>
+</xdr:wsDr>

@@ -1,0 +1,5 @@
+*.class
+*.jar
+complexEnv/bin
+*.zip
+complexEnv/.settings

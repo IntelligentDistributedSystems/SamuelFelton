@@ -1,0 +1,16 @@
+MAS q_Learning_Sarsa {
+
+	infrastructure: Centralised // type d'infrastructure, centralised = Tous les agents sur un même ordinateur
+
+	environment: mdp.MDPEnv //classe de l'environnement
+
+	agents:
+		
+		
+		qAgent #5;
+		sarsaAgent #5;
+		
+
+	aslSourcePath:
+		"src/asl"; //Répertoire où chercher les fichiers AgentSpeak
+}

@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<c:chartSpace xmlns:c="http://schemas.openxmlformats.org/drawingml/2006/chart" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+  <c:chart>
+    <c:title>
+      <c:tx>
+        <c:rich>
+          <a:bodyPr />
+          <a:lstStyle />
+          <a:p>
+            <a:pPr>
+              <a:defRPr sz="1800" b="0" />
+            </a:pPr>
+            <a:r>
+              <a:rPr />
+              <a:t>right</a:t>
+            </a:r>
+          </a:p>
+        </c:rich>
+      </c:tx>
+      <c:layout />
+      <c:overlay val="0" />
+    </c:title>
+    <c:plotArea>
+      <c:layout />
+      <c:lineChart>
+        <c:grouping val="standard" />
+        <c:varyColors val="0" />
+        <ser xmlns="http://schemas.openxmlformats.org/drawingml/2006/chart">
+          <c:idx val="0" />
+          <c:order val="0" />
+          <c:tx>
+            <c:v>Q-Values</c:v>
+          </c:tx>
+          <c:marker>
+            <c:symbol val="none" />
+          </c:marker>
+          <c:cat>
+            <c:numRef>
+              <c:f>'s(1, 1)'!$ZZ$1:$ZZ$211</c:f>
+            </c:numRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>'s(1, 1)'!$AC$2:$AC$22</c:f>
+            </c:numRef>
+          </c:val>
+          <c:smooth val="0" />
+        </ser>
+        <c:smooth val="0" />
+        <c:axId val="1" />
+        <c:axId val="2" />
+      </c:lineChart>
+      <c:lineChart>
+        <c:grouping val="standard" />
+        <c:varyColors val="0" />
+        <ser xmlns="http://schemas.openxmlformats.org/drawingml/2006/chart">
+          <c:idx val="1" />
+          <c:order val="1" />
+          <c:tx>
+            <c:v>Trials</c:v>
+          </c:tx>
+          <c:marker>
+            <c:symbol val="square" />
+          </c:marker>
+          <c:cat>
+            <c:numRef>
+              <c:f>'s(1, 1)'!$ZZ$1:$ZZ$211</c:f>
+            </c:numRef>
+          </c:cat>
+          <c:val>
+            <c:numRef>
+              <c:f>'s(1, 1)'!$BC$2:$BC$22</c:f>
+            </c:numRef>
+          </c:val>
+          <c:smooth val="0" />
+        </ser>
+        <c:marker val="1" />
+        <c:smooth val="0" />
+        <c:axId val="3" />
+        <c:axId val="4" />
+      </c:lineChart>
+      <c:catAx>
+        <c:axId val="1" />
+        <c:scaling>
+          <c:orientation val="minMax" />
+        </c:scaling>
+        <c:delete val="0" />
+        <c:axPos val="b" />
+        <c:tickLblPos val="nextTo" />
+        <c:crossAx val="2" />
+        <c:crosses val="autoZero" />
+        <c:auto val="1" />
+        <c:lblAlgn val="ctr" />
+        <c:lblOffset val="100" />
+      </c:catAx>
+      <c:valAx>
+        <c:axId val="2" />
+        <c:scaling>
+          <c:orientation val="minMax" />
+        </c:scaling>
+        <c:delete val="0" />
+        <c:axPos val="l" />
+        <c:majorGridlines />
+        <c:tickLblPos val="nextTo" />
+        <c:crossAx val="1" />
+        <c:crosses val="autoZero" />
+        <c:crossBetween val="between" />
+      </c:valAx>
+      <c:catAx>
+        <c:axId val="3" />
+        <c:scaling>
+          <c:orientation val="minMax" />
+        </c:scaling>
+        <c:delete val="1" />
+        <c:axPos val="b" />
+        <c:tickLblPos val="none" />
+        <c:crossAx val="4" />
+        <c:crosses val="autoZero" />
+      </c:catAx>
+      <c:valAx>
+        <c:axId val="4" />
+        <c:scaling>
+          <c:orientation val="minMax" />
+        </c:scaling>
+        <c:delete val="0" />
+        <c:axPos val="r" />
+        <c:tickLblPos val="nextTo" />
+        <c:crossAx val="3" />
+        <c:crosses val="max" />
+        <c:crossBetween val="between" />
+      </c:valAx>
+    </c:plotArea>
+    <c:legend>
+      <c:legendPos val="r" />
+      <c:layout />
+      <c:overlay val="0" />
+    </c:legend>
+    <c:plotVisOnly val="1" />
+  </c:chart>
+  <c:printSettings>
+    <c:headerFooter />
+    <c:pageMargins b="0.75" l="0.7" r="0.7" t="0.75" header="0.3" footer="0.3" />
+    <c:pageSetup />
+  </c:printSettings>
+</c:chartSpace>

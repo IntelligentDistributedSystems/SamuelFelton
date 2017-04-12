@@ -1,0 +1,8 @@
+e:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\bin\Debug\chartGen.exe.config
+e:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\bin\Debug\chartGen.exe
+e:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\bin\Debug\chartGen.pdb
+e:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\bin\Debug\EPPlus.dll
+e:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\bin\Debug\EPPlus.xml
+e:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\obj\Debug\chartGen.csprojResolveAssemblyReference.cache
+e:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\obj\Debug\chartGen.exe
+e:\Users\Sam\Documents\Visual Studio 2013\Projects\chartGen\chartGen\obj\Debug\chartGen.pdb

@@ -1,0 +1,13 @@
+MAS complexEnv {
+
+	infrastructure: Centralised
+
+	environment: complexEnv.MDPEnv
+
+	agents:
+		
+		agent1 agent;
+
+	aslSourcePath:
+		"src/asl";
+}

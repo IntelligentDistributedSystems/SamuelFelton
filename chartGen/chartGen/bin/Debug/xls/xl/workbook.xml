@@ -1,0 +1,19 @@
+<workbook xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <bookViews>
+    <workbookView />
+  </bookViews>
+  <sheets>
+    <sheet name="s(1, 3)" sheetId="1" r:id="rId1" />
+    <sheet name="s(1, 4)" sheetId="2" r:id="rId3" />
+    <sheet name="s(1, 2)" sheetId="3" r:id="rId4" />
+    <sheet name="s(3, 3)" sheetId="4" r:id="rId5" />
+    <sheet name="s(1, 1)" sheetId="5" r:id="rId6" />
+    <sheet name="s(2, 4)" sheetId="6" r:id="rId7" />
+    <sheet name="s(3, 2)" sheetId="7" r:id="rId8" />
+    <sheet name="s(3, 1)" sheetId="8" r:id="rId9" />
+    <sheet name="s(2, 3)" sheetId="9" r:id="rId10" />
+    <sheet name="s(3, 4)" sheetId="10" r:id="rId11" />
+    <sheet name="s(2, 1)" sheetId="11" r:id="rId12" />
+  </sheets>
+  <calcPr fullCalcOnLoad="1" />
+</workbook>
